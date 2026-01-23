@@ -12,23 +12,23 @@
 
 <div align="center">
   
-  📍 Khon Kaen University, Thailand
+  Khon Kaen University, Thailand
   
-  📫 **Let's connect:** [onp.jantakote@gmail.com](mailto:onp.jantakote@gmail.com)
+  **Let's connect:** [onp.jantakote@gmail.com](mailto:onp.jantakote@gmail.com)
   
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
   
   #### Frontend Development
-  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,bootstrap,tailwind" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind" height="40" />
   
   #### Programming Languages
-  <img src="https://skillicons.dev/icons?i=python,php,dart" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" />
   
   #### Databases
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="40" />
@@ -43,7 +43,7 @@
 
 ---
 
-### 📈 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   
@@ -56,6 +56,6 @@
 
 <div align="center">
   
-  <em>✨ "Trust the effort, it never betrays you" ✨</em>
+  <em>"Trust the effort, it never betrays you"</em>
   
 </div>
