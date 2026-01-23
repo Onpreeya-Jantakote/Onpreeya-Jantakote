@@ -27,14 +27,11 @@
   #### Frontend Development
   <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind" height="40" />
   
-  #### Programming Languages
+  #### Other Programming Languages
   <img src="https://skillicons.dev/icons?i=python" height="40" />
   
   #### Databases
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="40" />
-  
-  #### Mobile & Design
-  <img src="https://skillicons.dev/icons?i=flutter,figma,ps,ai" height="40" />
   
   #### Tools
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40" />
