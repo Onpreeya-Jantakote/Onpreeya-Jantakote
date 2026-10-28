@@ -61,15 +61,9 @@ I'm someone who enjoys **design** and wants to understand more about what makes 
 
 </div>
 
-### `04` / Contribution activity
-
 <div align="center">
 
 <img src="assets/contribution-ticker.svg" alt="Live Contribution Ticker - XTRAMO :)" width="100%" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Onpreeya-Jantakote/Onpreeya-Jantakote/output/github-snake-dark.svg" alt="Animated contribution snake" width="100%" />
 
 </div>
 
