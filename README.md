@@ -1,56 +1,78 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00A1FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Onpreeya.J;Computer+%26+Information+Science;Creating+Intuitive+UX%2FUI" alt="Typing SVG" />
 
-  <br />
+<img src="assets/neon-banner.svg" alt="HELLO WORLD // PROFILE — HI, I'M XTRAMO" width="100%" />
 
-  <a href="https://www.kku.ac.th/">
-    <img src="https://img.shields.io/badge/Khon%20Kaen%20University-Computer%20%26%20Information%20Science-000000?style=for-the-badge&color=252525&labelColor=00A1FF&logoColor=white" alt="KKU" />
-  </a>
+<br/>
 
-  <a href="mailto:onp.jantakote@gmail.com">
-    <img src="https://img.shields.io/badge/Email-onp.jantakote%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00A1FF&color=252525" alt="Email" />
-  </a>
-</div>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=I+want+to+be+a+Developer;Design-minded+%7C+Tech-curious;Exploring+Full-stack+%26+AI" alt="Typing animation" />
 
-<br />
+<br/>
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/Technical%20Skills-00A1FF?style=for-the-badge&labelColor=000000" height="30" />
-</h3>
-
-<div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind&theme=dark" height="45" />
-  <br/><br/>
-  
-  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,firebase&theme=dark" height="45" />
-  <br/><br/>
-  
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="45" />
+<a href="https://github.com/Onpreeya-Jantakote">
+  <img src="https://img.shields.io/badge/GitHub-Onpreeya--Jantakote-38BDF8?style=flat-square&logo=github&logoColor=white&labelColor=0B1220" alt="GitHub profile" />
+</a>
+<img src="https://img.shields.io/badge/FOCUS-DESIGN%20%2B%20DEVELOPMENT-38BDF8?style=flat-square&labelColor=0B1220" alt="Design and development" />
+<img src="https://img.shields.io/badge/CURIOUS_ABOUT-AI-38BDF8?style=flat-square&logo=openai&logoColor=white&labelColor=0B1220" alt="Interested in AI" />
 
 </div>
 
-<br />
+---
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/Github%20Activity-00A1FF?style=for-the-badge&labelColor=000000" height="30" />
-</h3>
+### `01` / A little about me
+
+Hi, I'm **Xtramo** 👋
+
+I'm someone who enjoys **design** and wants to understand more about what makes a good developer — not just how to write code, but how to think, solve problems, and build things that make sense.
+
+- 🎨 I naturally gravitate toward **design, UI details, and user experience**.
+- 🧩 I'm curious about **full-stack development** and how the pieces of an application work together.
+- 🤖 I'm interested in **AI** and how it can help people create useful things.
+- 🌱 I'm learning, experimenting, and figuring things out one step at a time.
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Onpreeya-Jantakote&show_icons=true&hide_title=true&hide_border=true&theme=algolia&bg_color=00000000&text_color=00A1FF&icon_color=00A1FF&title_color=00A1FF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onpreeya-Jantakote&layout=compact&hide_title=true&hide_border=true&theme=algolia&bg_color=00000000&text_color=00A1FF&title_color=00A1FF" height="165" />
-  
+
+`DESIGN` &nbsp; ✦ &nbsp; `DEVELOPMENT` &nbsp; ✦ &nbsp; `AI`
+
 </div>
 
-<br />
+### `02` / Things I like exploring
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Onpreeya-Jantakote/Onpreeya-Jantakote/output/github-snake-dark.svg" alt="snake" />
+
+<img src="https://img.shields.io/badge/Design-0B1220?style=for-the-badge&logo=figma&logoColor=38BDF8" alt="Design" />
+<img src="https://img.shields.io/badge/UI%20%2F%20UX-0B1220?style=for-the-badge&logo=designmodo&logoColor=38BDF8" alt="UI UX" />
+<img src="https://img.shields.io/badge/Full--stack-0B1220?style=for-the-badge&logo=typescript&logoColor=38BDF8" alt="Full-stack development" />
+<img src="https://img.shields.io/badge/AI-0B1220?style=for-the-badge&logo=openai&logoColor=38BDF8" alt="Artificial intelligence" />
+
 </div>
 
-<br />
+### `03` / My GitHub corner
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A1FF&height=100&section=footer&text=Trust%20the%20effort,%20it%20never%20betrays%20you&fontSize=20&fontColor=ffffff&fontAlign=50" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Onpreeya-Jantakote&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0B1220&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onpreeya-Jantakote&layout=compact&hide_border=true&theme=tokyonight&bg_color=0B1220&title_color=38BDF8&text_color=C9D1D9&langs_count=6" alt="Top languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Onpreeya-Jantakote&theme=tokyonight&hide_border=true&background=0B1220&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub contribution streak" width="70%" />
+
+</div>
+
+### `04` / Contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Onpreeya-Jantakote/Onpreeya-Jantakote/output/github-snake-dark.svg" alt="Animated contribution snake" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Still learning. Still curious. Always becoming. 💙</sub>
+
 </div>
