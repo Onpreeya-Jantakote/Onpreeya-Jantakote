@@ -46,20 +46,7 @@ I'm someone who enjoys **design** and wants to understand more about what makes 
 
 </div>
 
-### `03` / My GitHub corner
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Onpreeya-Jantakote&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0B1220&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onpreeya-Jantakote&layout=compact&hide_border=true&theme=tokyonight&bg_color=0B1220&title_color=38BDF8&text_color=C9D1D9&langs_count=6" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Onpreeya-Jantakote&theme=tokyonight&hide_border=true&background=0B1220&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub contribution streak" width="70%" />
-
-</div>
+<br/>
 
 <div align="center">
 
