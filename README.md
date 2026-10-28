@@ -46,5 +46,11 @@
 <br />
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Onpreeya-Jantakote/Onpreeya-Jantakote/output/github-snake-dark.svg" alt="snake" />
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00A1FF&height=100&section=footer&text=Trust%20the%20effort,%20it%20never%20betrays%20you&fontSize=20&fontColor=ffffff&fontAlign=50" />
 </div>
