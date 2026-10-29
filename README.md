@@ -46,6 +46,27 @@ I'm someone who enjoys **design** and wants to understand more about what makes 
 
 </div>
 
+### `03` / Tech stack & tools
+
+<div align="center">
+
+<p align="center">
+  <sub>Frontend &amp; UI/UX</sub><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&theme=dark" />
+</p>
+
+<p align="center">
+  <sub>Backend &amp; Database</sub><br/>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,mysql,mongodb,firebase&theme=dark" />
+</p>
+
+<p align="center">
+  <sub>Tools &amp; Workflow</sub><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+</p>
+
+</div>
+
 <br/>
 
 <div align="center">
